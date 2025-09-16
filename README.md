@@ -1,4 +1,4 @@
-![MasterHead](https://wallpapers.com/images/high/digital-data-stream-blue-background-jpg-oqtkxr1i0ccvuyo3.webp)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.academypeak.com%2Fblog%2Fyazilim-bilmek-ne-gibi-yararlar-saglar-14&psig=AOvVaw28ipjY7cxL0h_5z-issj8P&ust=1758107700768000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKjsiNqT3Y8DFQAAAAAdAAAAABAg)
 <h1 align="center">Hi 👋, I'm Minnure</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
 - 📫 How to reach me **gminnure@gmail.com**
