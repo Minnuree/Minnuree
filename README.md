@@ -1,6 +1,7 @@
 ![MasterHead](https://wallpapers.com/images/high/artificial-intelligence-concept-background-jpg-wi7zbepsoxhtwqp7.webp)
 <h1 align="center">Hi 👋, I'm Minnure</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
+
 - 📫 How to reach me **gminnure@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -16,3 +17,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minnuree&show_icons=true&locale=en" alt="minnuree" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minnuree&" alt="minnuree" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Minnuree/Minnuree/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Minnuree/Minnuree/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Minnuree/Minnuree/output/github-contribution-grid-snake.svg">
+</picture>
