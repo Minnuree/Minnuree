@@ -1,4 +1,4 @@
-![MasterHead](https://wallpapers.com/images/high/digital-rain-matrix-background-ay018d0i1qwjtra7.webp)
+![MasterHead](https://wallpapers.com/images/high/artificial-intelligence-concept-background-jpg-wi7zbepsoxhtwqp7.webp)
 <h1 align="center">Hi 👋, I'm Minnure</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
 - 📫 How to reach me **gminnure@gmail.com**
