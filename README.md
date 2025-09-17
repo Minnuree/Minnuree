@@ -1,5 +1,7 @@
 
-![MasterHead](https://wallpapers.com/images/high/global-code-network-concept-jpg-x2vv7w6hnfbyr32t.webp)
+![MasterHead](https://www.michaelpage.co.in/sites/michaelpage.co.in/files/styles/advice_node_desktop/public/2022-05/Software%20Developer.jpg.webp?itok=wzB1XCju)
+
+
 
 <h1 align="center">Hi 👋, I'm Minnure</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
