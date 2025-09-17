@@ -1,4 +1,5 @@
-![MasterHead](https://wallpapers.com/images/high/1200x480-neon-purple-mountains-56wuvoleyut5z0eb.webp)
+
+![MasterHead](https://wallpapers.com/images/high/global-code-network-concept-jpg-x2vv7w6hnfbyr32t.webp)
 
 <h1 align="center">Hi 👋, I'm Minnure</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
